@@ -8,3 +8,6 @@ fazendo uma calculadora de IMC.
 
 ### Para rodar
 - `npm start`
+
+## Tela do sistema
+![Web 1](https://github.com/JLira/assets/blob/master/IMC01.png)
